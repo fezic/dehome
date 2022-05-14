@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>demo</div>
-    <h1>我是master主内容</h1>
+    <h1>我是主内容</h1>
   </div>
 </template>
 
